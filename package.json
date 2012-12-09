@@ -1,0 +1,18 @@
+{
+  "author": "Ian Wu <onlinemad@gmail.com>",
+  "name": "CKIPClient",
+  "description": "The CKIP (Chinese Knowledge and Information Processing) is a group in sinica. The CKIP group provide online service to split sentence. This library is a CKIP client. The library implement by JavaScript (Node).",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/onlinemad/ckipclient-nodejs.git"
+  },
+  "main": "index.js",
+  "dependencies": {
+  	"xmlbuilder": "*",
+  	"iconv-lite": "*"
+  },
+  "devDependencies": {
+  	"mocha": "*"
+  }
+}
