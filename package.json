@@ -10,7 +10,7 @@
   "main": "index.js",
   "dependencies": {
   	"xmlbuilder": "*",
-  	"iconv-lite": "*"
+  	"iconv": "*"
   },
   "devDependencies": {
   	"mocha": "*"
